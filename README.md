@@ -23,7 +23,3 @@ This facial recognition project using PCA aims to achieve accurate and efficient
 Note: The implementation details, code snippets, and specific results can be found in the accompanying MATLAB files and documentation.
 
 Please refer to the provided MATLAB code and documentation for more information on the implementation details and usage instructions.
-
----
-
-This simple README provides an overview of your facial recognition project using Principal Component Analysis (PCA) and MATLAB. It highlights the key steps involved in the project, including data collection, preprocessing, PCA implementation, feature extraction, and recognition/classification. Additionally, it mentions your collaboration with Ahmed Eldeeb in developing this project.

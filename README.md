@@ -1,6 +1,7 @@
 # Facial Recognition Project using Principal Component Analysis (PCA)
 
-This project, developed in collaboration with Ahmed Eldeeb, focuses on facial recognition using Principal Component Analysis (PCA) implemented in MATLAB.
+This project, developed in collaboration with [Ahmed Eldeeb]([https://www.example.com](https://github.com/Foxdanger1412))
+, focuses on facial recognition using Principal Component Analysis (PCA) implemented in MATLAB.
 
 ## Description
 
